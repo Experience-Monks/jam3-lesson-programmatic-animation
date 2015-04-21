@@ -1,0 +1,43 @@
+{
+  "name": "jam3-lesson-programmatic-animation",
+  "version": "1.0.0",
+  "description": "This is a lesson about programmatic-animation.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Brendan Neufeld",
+    "email": "brendanjneufeld@gmail.com",
+    "url": "https://github.com/BrendanNeufeld"
+  },
+  "dependencies": {
+    "browser-lessons": "^1.3.1",
+    "gsap": "^1.16.1",
+    "raf-loop": "^1.0.1",
+    "tape": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "lesson,",
+    "workshop,",
+    "programmatic",
+    "animation",
+    "deterministic,",
+    "heuristic,",
+    "tween,",
+    "physics,",
+    "easing",
+    "math",
+    "code"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Jam3/jam3-lesson-programmatic-animation.git"
+  },
+  "homepage": "https://github.com/Jam3/jam3-lesson-programmatic-animation",
+  "bugs": {
+    "url": "https://github.com/Jam3/jam3-lesson-programmatic-animation/issues"
+  }
+}
