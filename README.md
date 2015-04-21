@@ -2,7 +2,7 @@
 
 [![experimental](http://badges.github.io/stability-badges/dist/experimental.svg)](http://github.com/badges/stability-badges)
 
-This is a lesson about programmatic-animation.
+This is a lesson about programmatic-animation. first commit
 
 ## Usage
 
