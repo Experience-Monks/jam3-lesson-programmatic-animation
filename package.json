@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a lesson about programmatic-animation.",
   "main": "index.js",
+  "bin": {
+    "jam3-lesson-programmatic-animation": "index.js"
+  },
   "license": "MIT",
   "author": {
     "name": "Brendan Neufeld",
