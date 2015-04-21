@@ -1,22 +1,4 @@
-#  Heuristic
+#  Example with tests
 
-* Have no beginning or end, but can settle into stable positions/states
-* Can be set to instant states (teleportation)
-* Much better reaction to impatient/indecisive users
-* Feels more physical
-
-
-## Physics
-* 2D, 3D
-* force directed layouts
-* complex rigs
-* forces and collisions
-
-
-## Simulations (aka microphysics)
-* 1D, 2D, 3D
-* spring
-* attraction
-* snap-to
-* Can control anything (color, scale, rotation)
+This is just an example lesson with tests. It is only here to show contributors how to set up practice and solution files for a given lesson task. (based off the tweening lesson)
 
